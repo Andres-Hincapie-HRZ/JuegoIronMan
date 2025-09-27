@@ -2,9 +2,13 @@
 
 Un emocionante juego de acción desarrollado en Python usando Pygame, donde controlas a Iron Man defendiendo el espacio de enemigos alienígenas.
 
+<img width="901" height="636" alt="image" src="https://github.com/user-attachments/assets/66393d9d-db81-4a96-bce4-51f338855e28" />
+<img width="905" height="633" alt="image" src="https://github.com/user-attachments/assets/00472b55-f9c9-4805-b6cd-42ac0c869c12" />
+
 ## 📋 Descripción
 
 Iron Man en el Espacio es un juego de disparos en 2D donde el jugador controla a Iron Man y debe destruir enemigos que aparecen desde arriba de la pantalla. El objetivo es obtener la mayor puntuación posible antes de que los enemigos lleguen al suelo.
+
 
 ## ✨ Características
 
